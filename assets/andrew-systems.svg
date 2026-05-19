@@ -1,0 +1,36 @@
+<svg width="1280" height="300" viewBox="0 0 1280 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Andrew Chen - real-time and distributed systems</title>
+  <desc id="desc">A restrained system map banner for Andrew Chen's GitHub profile.</desc>
+  <rect width="1280" height="300" rx="24" fill="#0B1220"/>
+  <path d="M0 242C150 210 251 252 397 221C535 192 603 108 736 129C884 152 940 252 1083 228C1168 214 1222 170 1280 137V300H0V242Z" fill="#101C2F"/>
+  <path d="M0 74C160 99 241 63 391 91C537 118 612 185 751 171C897 157 972 69 1126 76C1191 79 1236 95 1280 111" stroke="#1B6B73" stroke-width="2" opacity="0.55"/>
+  <path d="M0 221C159 190 247 222 395 199C534 177 616 119 750 138C893 159 962 226 1113 206C1187 196 1236 170 1280 147" stroke="#C6A15B" stroke-width="2" opacity="0.5"/>
+  <g opacity="0.14">
+    <path d="M64 32H1216" stroke="#E6EDF3"/>
+    <path d="M64 82H1216" stroke="#E6EDF3"/>
+    <path d="M64 132H1216" stroke="#E6EDF3"/>
+    <path d="M64 182H1216" stroke="#E6EDF3"/>
+    <path d="M64 232H1216" stroke="#E6EDF3"/>
+    <path d="M160 24V276" stroke="#E6EDF3"/>
+    <path d="M320 24V276" stroke="#E6EDF3"/>
+    <path d="M480 24V276" stroke="#E6EDF3"/>
+    <path d="M640 24V276" stroke="#E6EDF3"/>
+    <path d="M800 24V276" stroke="#E6EDF3"/>
+    <path d="M960 24V276" stroke="#E6EDF3"/>
+    <path d="M1120 24V276" stroke="#E6EDF3"/>
+  </g>
+  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <text x="72" y="105" fill="#F8FAFC" font-size="40" font-weight="700">Andrew Chen</text>
+    <text x="72" y="152" fill="#B8C7D9" font-size="22">distributed systems / real-time data / practical AI</text>
+    <text x="72" y="201" fill="#6EE7D8" font-size="17" letter-spacing="2">ADS  .  CRYPTO MARKETS  .  FRAUD  .  SEARCH</text>
+  </g>
+  <g transform="translate(930 72)">
+    <rect x="0" y="0" width="250" height="156" rx="18" fill="#0F1A2A" stroke="#2D405C"/>
+    <circle cx="42" cy="50" r="8" fill="#6EE7D8"/>
+    <circle cx="126" cy="48" r="8" fill="#C6A15B"/>
+    <circle cx="205" cy="105" r="8" fill="#6EE7D8"/>
+    <circle cx="78" cy="112" r="8" fill="#E6EDF3"/>
+    <path d="M50 50H118M134 51L198 101M83 110L119 55M85 111H198" stroke="#8DA2BD" stroke-width="2"/>
+    <text x="28" y="138" fill="#8DA2BD" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">events -> models -> decisions</text>
+  </g>
+</svg>
