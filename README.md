@@ -45,7 +45,7 @@ I am building toward a profile centered on **real-time, data-intensive systems**
 ## Activity
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Andrew's GitHub contribution graph in 3D" width="100%" />
+  <img src="./profile-3d-contrib/profile-season-animate.svg" alt="Andrew's GitHub contribution graph in 3D" width="100%" />
 </p>
 
 ## Writing
